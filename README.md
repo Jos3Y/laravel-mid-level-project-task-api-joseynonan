@@ -82,4 +82,4 @@ Cómo ver logs de auditoría
 - Puedes consultarlos en la base de datos en la tabla `audits`.
 - Para revisar acciones en código o API, puedes usar Laravel Telescope para monitorear las solicitudes que generan auditorías.
 
-¡Listo! Con esto tienes la API funcional, documentada y monitoreada. Cualquier duda o mejora, ¡estoy atento!
+
